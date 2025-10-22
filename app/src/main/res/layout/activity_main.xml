@@ -87,7 +87,7 @@
         android:orientation="horizontal"
         android:padding="50px">
 
-        <RelativeLayout
+        <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_marginEnd="100px"
@@ -132,7 +132,7 @@
                 android:layout_marginBottom="50px"
                 android:layout_weight="1"
                 android:background="#FFFFFF" />
-        </RelativeLayout>
+        </LinearLayout>
 
         <LinearLayout
             android:layout_width="match_parent"
